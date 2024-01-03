@@ -6,7 +6,7 @@ function Card () {
     return <>
         <img src="src/assets/pexels-pixabay-47730.jpg" alt="terrain foot"/>
         <h1>Title</h1>
-        <StarRating/>
+        <StarRating rating={(3)}/>
         <h2 id="Secondary"> Secondary Text</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </p>
         <hr/>
